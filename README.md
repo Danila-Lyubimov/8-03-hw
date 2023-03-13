@@ -4,6 +4,6 @@
 ---
 Задание 1
 
-  https://github.com/Danila-Lyubimov/8-03-hw/img/1.png
+[Состояние сервиса BACKUP](https://github.com/Danila-Lyubimov/8-03-hw/img/1.png)
   https://github.com/Danila-Lyubimov/8-03-hw/img/2.png
 
