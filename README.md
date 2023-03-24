@@ -21,7 +21,7 @@ Weighted Round Robin
   
 [HAProxy](https://github.com/Danila-Lyubimov/8-03-hw/blob/main/img/1.png)  
   
-**Задание 4**   
+**Задание 4-5**   
   
 [Nginx](https://github.com/Danila-Lyubimov/8-03-hw/blob/main/img/2.png)  
 [NXconfig](https://github.com/Danila-Lyubimov/8-03-hw/blob/main/img/3.png)  
